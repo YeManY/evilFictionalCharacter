@@ -1,0 +1,53 @@
+.border{
+height:412px;
+width:310px;
+border: red solid 4px;
+display: flex;
+}
+#meruem{
+height:412px;
+width:310px;
+margin: left;
+}
+#official-site{
+font-family: 'Abril Fatface', cursive;
+}
+#nav-bar{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 100px;
+}
+p {
+ font-family: 'Montserrat', sans-serif;
+
+}
+#analysis {
+margin: 0;
+text-align: center;
+
+}
+#m{
+	background-image: url("https://i.pinimg.com/originals/ee/60/4d/ee604d014ab1187134c4fb62b62cc5cd.jpg");
+}
+#analysis-navbar {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 100px;
+}
+#m2{
+background-image: url("https://static.zerochan.net/Meruem.full.1860577.jpg");
+background-size: 100%;
+}
+#media-navbar{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 100px;
+}
+#media{
+background-image: url("https://i.pinimg.com/originals/87/ba/d9/87bad962ca263998c6af16bd1dd4bebe.jpg");
+background-size: 100%;
+
+}
